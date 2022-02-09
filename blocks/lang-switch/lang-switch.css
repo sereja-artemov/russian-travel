@@ -1,0 +1,7 @@
+.lang-switch {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  gap: 18px;
+  color: #fff;
+}
