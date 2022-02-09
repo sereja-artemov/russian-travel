@@ -1,0 +1,6 @@
+.main-nav__item {
+  margin-bottom: 32px;
+}
+.main-nav__item:last-child {
+  margin-bottom: 0;
+}

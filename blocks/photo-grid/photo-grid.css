@@ -1,0 +1,6 @@
+.photo-grid {
+  display: grid;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  gap: 12px;
+}
