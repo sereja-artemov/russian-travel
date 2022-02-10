@@ -1,5 +1,22 @@
 .container {
-  max-width: 425px;
   margin: 0 auto;
   padding: 0 16px;
+}
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 720px;
+    padding: 0 24px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .container {
+    max-width: 928px;
+    padding: 0 48px;
+  }
+}
+@media screen and (min-width: 1280px) {
+  .container {
+    max-width: 984px;
+    padding: 0 148px;
+  }
 }

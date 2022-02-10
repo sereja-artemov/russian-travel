@@ -5,3 +5,13 @@
   padding-top: 32px;
   padding-bottom: 32px;
 }
+@media screen and (min-width: 768px) {
+  .lead {
+    padding-bottom: 44px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .lead {
+    padding-bottom: 57px;
+  }
+}
