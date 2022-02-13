@@ -10,4 +10,4 @@
 
 **GitHub Pages**
 
-Посмотреть сайт можно тут:
+Посмотреть сайт можно тут: [https://sereja-artemov.github.io/russian-travel/] (https://sereja-artemov.github.io/russian-travel/)
