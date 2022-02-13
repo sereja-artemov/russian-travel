@@ -3,6 +3,7 @@
   margin-bottom: 12px;
   font-size: 12px;
   line-height: 12px;
-  letter-spacing: 1;
+  letter-spacing: 2px;
+  text-transform: uppercase;
   color: #aaa;
 }

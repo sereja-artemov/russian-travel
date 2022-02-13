@@ -1,7 +1,11 @@
 .photo-grid {
+  box-sizing: border-box;
+  max-width: 1280px;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(284px ,1fr));
   padding: 32px 16px;
+  margin-left: auto;
+  margin-right: auto;
   gap: 12px;
 }
 @media screen and (min-width: 768px) {
