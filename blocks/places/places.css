@@ -6,12 +6,14 @@
 }
 @media screen and (min-width: 768px) {
   .places {
+    gap: 73px;
     padding: 44px 24px;
     margin: 0 auto;
   }
 }
 @media screen and (min-width: 1024px) {
   .places {
+    gap: 80px;
     padding: 46px 48px;
   }
 }

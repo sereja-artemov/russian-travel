@@ -7,3 +7,9 @@
 .main-nav__link:hover {
   opacity: 0.8;
 }
+@media screen and (min-width: 768px) {
+  .main-nav__link  {
+    font-size: 16px;
+    line-height: 1.125;
+  }
+}
