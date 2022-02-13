@@ -5,6 +5,7 @@
   align-items: center;
   justify-content: center;
   padding: 33px 16px;
+  margin: 32px auto;
   text-decoration: none;
   color: inherit;
   line-height: 1;
@@ -12,9 +13,6 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-}
-.cover__link {
-  margin: 32px auto;
 }
 .cover__link:hover .cover__overlay {
   opacity: 0.8;
